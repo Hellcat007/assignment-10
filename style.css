@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .container {
+    text-align: center;
+    width: 500px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: rgba(227, 118, 8, 0.56) 0px 22px 60px 4px;
+  }
+  
+  #user-info {
+    margin-top: 20px;
+  }
+  img {
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+  }
+  button {
+    background-color: rgb(235, 70, 5);
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 30px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
